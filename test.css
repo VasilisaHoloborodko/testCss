@@ -1,3 +1,15 @@
-.xs .frame-root {
+.xs .chatbot-container__body-container__user-message {
   background-color: red;
+}
+
+.sm .chatbot-container__body-container__user-message {
+  background-color: white;
+}
+
+.md .chatbot-container__body-container__user-message {
+  background-color: black;
+}
+
+.lg .chatbot-container__body-container__user-message {
+  background-color: yellow;
 }
